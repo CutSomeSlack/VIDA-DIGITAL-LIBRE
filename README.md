@@ -3,7 +3,7 @@ Material de los talleres del grupo Los Hijos de RMS para Ingenia 2018
 
 ## Primer encuentro: Seminario introductorio intensivo de producción musical con Software Libre
 
-Los chicxs de Dirty Girls nos muestran cómo armar es el proceso de armado de un EP: componer una base, mezclar y ecualizar sonidos, y combinarlo con las voces.
+Los chicxs de [Dirty Girls](https://www.youtube.com/channel/UCMNvahIKlplTvbJDNJjivkg) nos muestran cómo armar es el proceso de armado de un EP: componer una base, mezclar y ecualizar sonidos, y combinarlo con las voces.
 
 Durante el encuentro, usaremos Software Libre: Audacity, LMMS (Linux MultiMedia Studio), y el sistema operativo Ubuntu.
 
