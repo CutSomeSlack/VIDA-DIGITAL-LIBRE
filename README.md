@@ -3,16 +3,26 @@ Material de los talleres del grupo Los Hijos de RMS para Ingenia 2018
 
 ## Primer encuentro: Seminario introductorio intensivo de producción musical con Software Libre
 
-Los chicxs de [Dirty Girls](https://www.youtube.com/channel/UCMNvahIKlplTvbJDNJjivkg) nos muestran cómo armar es el proceso de armado de un EP: componer una base, mezclar y ecualizar sonidos, y combinarlo con las voces.
+Los chicxs de [Dirty Girls](https://www.youtube.com/channel/UCMNvahIKlplTvbJDNJjivkg) nos muestran cómo es el proceso de armado de un EP: componer una base, mezclar y ecualizar sonidos, y combinarlo con las voces.
 
-Durante el encuentro, usaremos Software Libre: Audacity, LMMS (Linux MultiMedia Studio), y el sistema operativo Ubuntu.
+Durante el encuentro, usaremos Software Libre: Audacity, LMMS (Linux MultiMedia Studio), y el sistema operativo [Ubuntu](https://www.ubuntu.com/download/desktop).
 
-Si todavía no tenés GNU/Linux en casa, ¡no te preocupes! El software que usamos está disponible para todas las plataformas (Linux/Windows/Mac). Además de ser gratuitos, los programas son [libres](https://www.gnu.org/philosophy/free-sw.es.html)
+Si todavía no tenés GNU/Linux en casa, ¡no te preocupes! Acá tenés una [guía para instalar la versión más reciente](https://www.muylinux.com/2018/06/18/guia-instalacion-ubuntu-18-04-lts/). 
+
+Acá hay unos videotutoriales que pueden ayudar:
+
+* Repaso de las características de Ubuntu Bionic Beaver (18.02) - [Enlace a YouTube](https://www.youtube.com/watch?v=hhIWSQ9A7KI)
+
+* 
+
+El software que usamos está disponible para todas las plataformas (Linux/Windows/Mac). Además de ser gratuitos, los programas son [libres](https://www.gnu.org/philosophy/free-sw.es.html)
 
 Acá podés encontrar la forma recomendada de instalar los programas, y algunas instrucciones para que ya salgas jugando.
-Ante cualquier duda, comunicate con nosotros a <mailto@vidadigitallibre.org>
+Ante cualquier duda, comunicate con nosotros a <talleres.vdl@gmail.com>
 
-### Bajate el software
+---
+
+#### Bajate el software
 
 * LMMS: https://lmms.io/download/
 
@@ -31,3 +41,16 @@ sudo apt install lmms
 ```bash
 sudo apt install audacity
 ```
+---
+
+#### Recursos
+
+* Fotografías con Creative Commons: [Flickr - The Commons](https://www.flickr.com/commons)
+
+* Videos con licencias Creative Commons: [Vimeo](https://vimeo.com/search?q=creative+commons)
+
+---
+
+
+#### Procedimiento
+
