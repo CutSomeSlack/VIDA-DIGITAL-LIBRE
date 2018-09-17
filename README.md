@@ -39,21 +39,35 @@ sudo apt install audacity
 
 #### Recursos
 
-* Fotografías con Creative Commons: [Flickr - The Commons](https://www.flickr.com/commons)
+Contenidos con licencias que permiten la descarga, uso y copia legal:
 
-* Videos con licencias Creative Commons: [Vimeo](https://vimeo.com/search?q=creative+commons)
+> Fotografías con Creative Commons: [Flickr - The Commons](https://www.flickr.com/commons)
 
-Acá hay unos videotutoriales que pueden ayudar:
+> Videos con licencias Creative Commons: [Vimeo](https://vimeo.com/search?q=creative+commons)
+
+> Banco de sonidos de Armstrong Liberado - [Enlace a la página](https://armstrongliberado.wordpress.com/audio-libre/)
+
+> Banco de sonidos FreeSound  - [Enlace a la página](https://freesound.org/)
+
+> Compilación de sitios con audio libre por RadiosLibres.net - [Enlace a la página](https://radioslibres.net/efectos-de-sonido/)
+
+Videotutoriales que pueden ayudar:
 
 > Repaso de las características de Ubuntu Bionic Beaver (18.02) - [Enlace a YouTube](https://www.youtube.com/watch?v=hhIWSQ9A7KI)
 
 > Instalar Ubuntu junto a Windows 10 - [Enlace a YouTube](https://www.youtube.com/watch?v=Cil0cneY2EY)
 
+> Reducir el ruido ambiente de una grabación con Audacity - [Enlace a YouTube](https://www.youtube.com/watch?v=T9jJ-9k4C3Q) 
 
+Manuales, glosarios y otro material de apoyo
+
+> Manual de Audacity por El Rancho Electrónico - [Enlace al PDF](https://ranchoelectronico.org/wp-content/uploads/2013/11/tutorial-audacity.pdf)
+
+> Glosario español-inglés de términos de sonido - [Enlace a la página](http://www.doctorproaudio.com/content.php?117-diccionario-glosario-sonido)
 
 ---
 
 
-#### Procedimiento
+#### Procedimiento 
 
-/play flawless
+Te lo debo para mañana
