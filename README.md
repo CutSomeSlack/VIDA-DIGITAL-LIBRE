@@ -9,13 +9,7 @@ Durante el encuentro, usaremos Software Libre: Audacity, LMMS (Linux MultiMedia 
 
 Si todavía no tenés GNU/Linux en casa, ¡no te preocupes! Acá tenés una [guía para instalar la versión más reciente](https://www.muylinux.com/2018/06/18/guia-instalacion-ubuntu-18-04-lts/). 
 
-Acá hay unos videotutoriales que pueden ayudar:
-
-* Repaso de las características de Ubuntu Bionic Beaver (18.02) - [Enlace a YouTube](https://www.youtube.com/watch?v=hhIWSQ9A7KI)
-
-* 
-
-El software que usamos está disponible para todas las plataformas (Linux/Windows/Mac). Además de ser gratuitos, los programas son [libres](https://www.gnu.org/philosophy/free-sw.es.html)
+El software que usamos está disponible para todas las plataformas (Linux/Windows/Mac). Además de ser gratuitos, los programas son [libres](https://www.gnu.org/philosophy/free-sw.es.html). 
 
 Acá podés encontrar la forma recomendada de instalar los programas, y algunas instrucciones para que ya salgas jugando.
 Ante cualquier duda, comunicate con nosotros a <talleres.vdl@gmail.com>
@@ -49,8 +43,17 @@ sudo apt install audacity
 
 * Videos con licencias Creative Commons: [Vimeo](https://vimeo.com/search?q=creative+commons)
 
+Acá hay unos videotutoriales que pueden ayudar:
+
+> Repaso de las características de Ubuntu Bionic Beaver (18.02) - [Enlace a YouTube](https://www.youtube.com/watch?v=hhIWSQ9A7KI)
+
+> Instalar Ubuntu junto a Windows 10 - [Enlace a YouTube](https://www.youtube.com/watch?v=Cil0cneY2EY)
+
+
+
 ---
 
 
 #### Procedimiento
 
+/play flawless
