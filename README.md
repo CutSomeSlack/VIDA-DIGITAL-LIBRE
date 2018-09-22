@@ -7,7 +7,7 @@ Los chicxs de [Dirty Girls](https://www.youtube.com/channel/UCMNvahIKlplTvbJDNJj
 
 Durante el encuentro, usaremos Software Libre: Audacity, LMMS (Linux MultiMedia Studio), y el sistema operativo [Ubuntu](https://www.ubuntu.com/download/desktop).
 
-Si todavía no tenés GNU/Linux en casa, ¡no te preocupes! Acá tenés una [guía para instalar](https://www.muylinux.com/2018/06/18/guia-instalacion-ubuntu-18-04-lts/) la versión más reciente de Ubuntu 18.02 "Bionic Beaver".
+Si todavía no tenés GNU/Linux en casa, ¡no te preocupes! Acá tenés una [guía para instalar](https://www.muylinux.com/2018/06/18/guia-instalacion-ubuntu-18-04-lts/) la versión más reciente de Ubuntu 18.04 "Bionic Beaver".
 
 El software que usamos está disponible para todas las plataformas (Linux/Windows/Mac). Además de ser gratuitos, los programas son [libres](https://www.gnu.org/philosophy/free-sw.es.html). 
 
