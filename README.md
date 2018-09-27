@@ -11,7 +11,6 @@ Si todavía no tenés GNU/Linux en casa, ¡no te preocupes! Acá tenés una [gu�
 
 El software que usamos está disponible para todas las plataformas (Linux/Windows/Mac). Además de ser gratuitos, los programas son [libres](https://www.gnu.org/philosophy/free-sw.es.html). 
 
-Estás invitade a pasar por nuestra [WIKI](https://github.com/CutSomeSlack/VIDA-DIGITAL-LIBRE/wiki), donde encontrarás parte de la información expuesta en el encuentro.
+Estás invitade a pasar por nuestra [WIKI](https://github.com/CutSomeSlack/VIDA-DIGITAL-LIBRE/wiki), donde encontrarás parte de la información expuesta en el encuentro, como la forma recomendada de instalar los programas.
 
-Acá podés encontrar la forma recomendada de instalar los programas, y algunas instrucciones para que ya salgas jugando.
 Ante cualquier duda, comunicate con nosotros a <talleres.vdl@gmail.com>.
